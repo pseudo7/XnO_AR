@@ -22,7 +22,6 @@
 
 # Screenshots
 <img src="/Screenshots/Screenshot_20181215-141134.jpg" width="40%" height="40%">
-![ScreenShot](/Screenshots/Screenshot_20181215-141134.jpg){:height="50%" width="50%"}
-![ScreenShot](/Screenshots/Screenshot_20181215-141139.jpg){:height="50%" width="50%"}
-![ScreenShot](/Screenshots/Screenshot_20181215-141142.jpg){:height="50%" width="50%"}
-![ScreenShot](/Screenshots/Screenshot_20181215-141235.jpg){:height="50%" width="50%"}
+<img src="/Screenshots/Screenshot_20181215-141139.jpg" width="40%" height="40%">
+<img src="/Screenshots/Screenshot_20181215-141142.jpg" width="40%" height="40%">
+<img src="/Screenshots/Screenshot_20181215-141235.jpg" width="40%" height="40%">
