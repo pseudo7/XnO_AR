@@ -21,5 +21,7 @@
 **Hard Mode:** It is impossible to win from the AI, but you can still draw the game and try not to lose. :smirk:
 
 # Screenshots
+<div style="text-align:center">
 <img src="/Screenshots/Screenshot_20181215-141134.jpg" width="40%" height="40%">&nbsp<img src="/Screenshots/Screenshot_20181215-141139.jpg" width="40%" height="40%">
 <img src="/Screenshots/Screenshot_20181215-141142.jpg" width="40%" height="40%">&nbsp<img src="/Screenshots/Screenshot_20181215-141235.jpg" width="40%" height="40%">
+</div>
