@@ -3,7 +3,7 @@
 ## A simple implementation of Tic Tac Toe in Unity3D.
 ### Using Vuforia SDK and **User Defined Targets**, so it doesn't require a specific `Image Target`.
 
-**Sidenote: Click on the capture button when the target quality is `High`.**
+`Note: Click on the capture button when the target quality is High.`
 
 ### This game has 2 gameplay modes, viz. 
 * **Player vs Player**
