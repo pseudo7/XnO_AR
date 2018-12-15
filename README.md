@@ -1,15 +1,15 @@
 # XnO AR
 
 ## A simple implementation of Tic Tac Toe in Unity3D.
-## Using Vuforia SDK and **User Defined Targets**, the game doesn't require any specific `Image Target`.
+### Using Vuforia SDK and **User Defined Targets**, the game doesn't require any specific `Image Target`.
 
 **Sidenote: Click on the capture button when the target quality is `High`.**
 
-## This game has 2 gameplay modes, viz. 
+### This game has 2 gameplay modes, viz. 
 * **Player vs Player**
 * **Player vs AI**
 
-## The `Player vs AI` gameplay has 3 difficulty modes:
+### The `Player vs AI` gameplay has 3 difficulty modes:
 1. Easy
 2. Medium
 3. Hard
